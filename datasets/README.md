@@ -1,1 +1,2 @@
 Age census data from https://data.census.gov/table/ACSST1Y2022.S0102?q=age%20by%20state
+CDC vaccination data https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc
