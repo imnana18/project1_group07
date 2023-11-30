@@ -1,3 +1,53 @@
-,Stat,Alabama_Total_Estimate,Alabama_60+_Estimate,Alaska_Total_Estimate,Alaska_60+_Estimate,Arizona_Total_Estimate,Arizona_60+_Estimate,Arkansas_Total_Estimate,Arkansas_60+_Estimate,California_Total_Estimate,California_60+_Estimate,Colorado_Total_Estimate,Colorado_60+_Estimate,Connecticut_Total_Estimate,Connecticut_60+_Estimate,Delaware_Total_Estimate,Delaware_60+_Estimate,District of Columbia_Total_Estimate,District of Columbia_60+_Estimate,Florida_Total_Estimate,Florida_60+_Estimate,Georgia_Total_Estimate,Georgia_60+_Estimate,Hawaii_Total_Estimate,Hawaii_60+_Estimate,Idaho_Total_Estimate,Idaho_60+_Estimate,Illinois_Total_Estimate,Illinois_60+_Estimate,Indiana_Total_Estimate,Indiana_60+_Estimate,Iowa_Total_Estimate,Iowa_60+_Estimate,Kansas_Total_Estimate,Kansas_60+_Estimate,Kentucky_Total_Estimate,Kentucky_60+_Estimate,Louisiana_Total_Estimate,Louisiana_60+_Estimate,Maine_Total_Estimate,Maine_60+_Estimate,Maryland_Total_Estimate,Maryland_60+_Estimate,Massachusetts_Total_Estimate,Massachusetts_60+_Estimate,Michigan_Total_Estimate,Michigan_60+_Estimate,Minnesota_Total_Estimate,Minnesota_60+_Estimate,Mississippi_Total_Estimate,Mississippi_60+_Estimate,Missouri_Total_Estimate,Missouri_60+_Estimate,Montana_Total_Estimate,Montana_60+_Estimate,Nebraska_Total_Estimate,Nebraska_60+_Estimate,Nevada_Total_Estimate,Nevada_60+_Estimate,New Hampshire_Total_Estimate,New Hampshire_60+_Estimate,New Jersey_Total_Estimate,New Jersey_60+_Estimate,New Mexico_Total_Estimate,New Mexico_60+_Estimate,New York_Total_Estimate,New York_60+_Estimate,North Carolina_Total_Estimate,North Carolina_60+_Estimate,North Dakota_Total_Estimate,North Dakota_60+_Estimate,Ohio_Total_Estimate,Ohio_60+_Estimate,Oklahoma_Total_Estimate,Oklahoma_60+_Estimate,Oregon_Total_Estimate,Oregon_60+_Estimate,Pennsylvania_Total_Estimate,Pennsylvania_60+_Estimate,Rhode Island_Total_Estimate,Rhode Island_60+_Estimate,South Carolina_Total_Estimate,South Carolina_60+_Estimate,South Dakota_Total_Estimate,South Dakota_60+_Estimate,Tennessee_Total_Estimate,Tennessee_60+_Estimate,Texas_Total_Estimate,Texas_60+_Estimate,Utah_Total_Estimate,Utah_60+_Estimate,Vermont_Total_Estimate,Vermont_60+_Estimate,Virginia_Total_Estimate,Virginia_60+_Estimate,Washington_Total_Estimate,Washington_60+_Estimate,West Virginia_Total_Estimate,West Virginia_60+_Estimate,Wisconsin_Total_Estimate,Wisconsin_60+_Estimate,Wyoming_Total_Estimate,Wyoming_60+_Estimate,Puerto Rico_Total_Estimate,Puerto Rico_60+_Estimate
-0,Total population,"5,074,296","1,254,589","733,583","145,091","7,359,197","1,838,642","3,045,637","738,823","39,029,342","8,492,450","5,839,926","1,275,099","3,626,205","922,708","1,018,396","290,180","671,803","120,337","22,244,823","6,314,895","10,912,876","2,299,476","1,440,196","386,247","1,939,033","445,778","12,582,032","2,974,355","6,833,037","1,602,123","3,200,517","802,930","2,937,150","690,283","4,512,310","1,097,872","4,590,241","1,096,897","1,385,340","423,421","6,164,660","1,459,662","6,981,974","1,738,871","10,034,118","2,593,502","5,717,184","1,389,080","2,940,057","711,915","6,177,957","1,542,945","1,122,867","304,751","1,967,923","463,228","3,177,772","730,781","1,395,231","395,106","9,261,699","2,244,217","2,113,344","541,085","19,677,151","4,881,715","10,698,973","2,565,100","779,261","177,613","11,756,058","2,973,824","4,019,800","913,608","4,240,137","1,086,451","12,972,008","3,462,218","1,093,734","286,567","5,282,634","1,376,023","909,824","229,647","7,051,339","1,677,613","30,029,572","5,699,843","3,380,800","564,294","647,064","193,012","8,683,619","2,015,868","7,785,786","1,789,686","1,775,156","502,518","5,892,539","1,526,889","581,381","146,340",,
-4,        Median age (years),39.6,69.7,35.9,68.5,38.8,70.6,38.9,69.9,37.9,69.8,37.7,69.5,40.9,69.8,41.5,69.8,34.9,69.6,42.7,71.0,37.6,69.5,40.8,70.7,37.5,69.9,39.1,69.9,38.2,69.8,38.9,70.1,37.6,69.9,39.4,69.5,38.2,69.4,45.1,69.9,39.7,69.6,40.3,69.8,40.3,69.7,39.0,69.7,38.9,69.6,39.1,69.8,40.2,70.0,37.4,70.0,39.0,69.9,43.3,69.5,40.4,69.8,39.4,70.2,40.0,70.1,39.2,69.8,36.2,69.7,39.9,69.8,37.1,69.8,40.5,70.3,40.9,70.0,40.7,69.7,40.5,69.9,38.5,69.5,39.2,69.7,35.6,69.3,32.1,69.4,43.2,69.7,39.0,69.8,38.4,69.9,42.9,70.2,40.4,69.6,39.1,69.5,,
+,Total population,        Median age (years)
+Alabama_Total_Estimate,"5,074,296",39.6
+Alaska_Total_Estimate,"733,583",35.9
+Arizona_Total_Estimate,"7,359,197",38.8
+Arkansas_Total_Estimate,"3,045,637",38.9
+California_Total_Estimate,"39,029,342",37.9
+Colorado_Total_Estimate,"5,839,926",37.7
+Connecticut_Total_Estimate,"3,626,205",40.9
+Delaware_Total_Estimate,"1,018,396",41.5
+District of Columbia_Total_Estimate,"671,803",34.9
+Florida_Total_Estimate,"22,244,823",42.7
+Georgia_Total_Estimate,"10,912,876",37.6
+Hawaii_Total_Estimate,"1,440,196",40.8
+Idaho_Total_Estimate,"1,939,033",37.5
+Illinois_Total_Estimate,"12,582,032",39.1
+Indiana_Total_Estimate,"6,833,037",38.2
+Iowa_Total_Estimate,"3,200,517",38.9
+Kansas_Total_Estimate,"2,937,150",37.6
+Kentucky_Total_Estimate,"4,512,310",39.4
+Louisiana_Total_Estimate,"4,590,241",38.2
+Maine_Total_Estimate,"1,385,340",45.1
+Maryland_Total_Estimate,"6,164,660",39.7
+Massachusetts_Total_Estimate,"6,981,974",40.3
+Michigan_Total_Estimate,"10,034,118",40.3
+Minnesota_Total_Estimate,"5,717,184",39.0
+Mississippi_Total_Estimate,"2,940,057",38.9
+Missouri_Total_Estimate,"6,177,957",39.1
+Montana_Total_Estimate,"1,122,867",40.2
+Nebraska_Total_Estimate,"1,967,923",37.4
+Nevada_Total_Estimate,"3,177,772",39.0
+New Hampshire_Total_Estimate,"1,395,231",43.3
+New Jersey_Total_Estimate,"9,261,699",40.4
+New Mexico_Total_Estimate,"2,113,344",39.4
+New York_Total_Estimate,"19,677,151",40.0
+North Carolina_Total_Estimate,"10,698,973",39.2
+North Dakota_Total_Estimate,"779,261",36.2
+Ohio_Total_Estimate,"11,756,058",39.9
+Oklahoma_Total_Estimate,"4,019,800",37.1
+Oregon_Total_Estimate,"4,240,137",40.5
+Pennsylvania_Total_Estimate,"12,972,008",40.9
+Rhode Island_Total_Estimate,"1,093,734",40.7
+South Carolina_Total_Estimate,"5,282,634",40.5
+South Dakota_Total_Estimate,"909,824",38.5
+Tennessee_Total_Estimate,"7,051,339",39.2
+Texas_Total_Estimate,"30,029,572",35.6
+Utah_Total_Estimate,"3,380,800",32.1
+Vermont_Total_Estimate,"647,064",43.2
+Virginia_Total_Estimate,"8,683,619",39.0
+Washington_Total_Estimate,"7,785,786",38.4
+West Virginia_Total_Estimate,"1,775,156",42.9
+Wisconsin_Total_Estimate,"5,892,539",40.4
+Wyoming_Total_Estimate,"581,381",39.1
+Puerto Rico_Total_Estimate,,
