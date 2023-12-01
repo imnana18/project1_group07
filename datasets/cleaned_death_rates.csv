@@ -1,4 +1,4 @@
-Year,State,Rate,Deaths
+Year,State,Rate,Deaths (per 100k)
 2021,Alabama,152.8,9491
 2021,Alaska,109.5,763
 2021,Arizona,139.5,12706
@@ -25,7 +25,7 @@ Year,State,Rate,Deaths
 2021,Mississippi,146.3,5082
 2021,Missouri,100.5,7760
 2021,Montana,108.8,1576
-2021,Nebraska,69.0,1594
+2021,Nebraska,69,1594
 2021,Nevada,141.6,5149
 2021,New Hampshire,60.2,1112
 2021,New Jersey,71.9,8423
@@ -36,7 +36,7 @@ Year,State,Rate,Deaths
 2021,Ohio,122.8,18285
 2021,Oklahoma,158.8,7279
 2021,Oregon,69.2,3681
-2021,Pennyslvania,102.5,18169
+2021,Pennsylvania,102.5,18169
 2021,Rhode Island,66.4,979
 2021,South Carolina,139.2,9088
 2021,South Dakota,71.2,776
