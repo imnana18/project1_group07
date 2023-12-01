@@ -1,52 +1,52 @@
 ,EDUCATIONAL ATTAINMENT,    Population 25 years and over,        Less than high school graduate,"        High school graduate, GED, or alternative",        Some college or associate's degree,        Bachelor's degree or higher
-Alabama_Total_Estimate,,"3,474,924",11.2%,30.4%,29.6%,28.8%
-Alaska_Total_Estimate,,"489,218",6.7%,29.1%,33.6%,30.6%
-Arizona_Total_Estimate,,"5,053,656",10.8%,23.8%,32.4%,33.0%
-Arkansas_Total_Estimate,,"2,057,624",10.9%,34.3%,29.4%,25.4%
-California_Total_Estimate,,"26,866,773",15.3%,20.5%,27.2%,37.0%
-Colorado_Total_Estimate,,"4,084,004",7.0%,20.2%,27.0%,45.9%
-Connecticut_Total_Estimate,,"2,545,188",8.5%,25.9%,23.7%,41.9%
-Delaware_Total_Estimate,,"724,041",8.0%,28.2%,27.3%,36.5%
-District of Columbia_Total_Estimate,,"479,231",6.3%,13.5%,14.8%,65.4%
-Florida_Total_Estimate,,"16,104,410",10.1%,27.1%,28.6%,34.3%
-Georgia_Total_Estimate,,"7,332,980",10.5%,27.0%,27.8%,34.7%
-Hawaii_Total_Estimate,,"1,023,843",7.1%,26.8%,30.7%,35.4%
-Idaho_Total_Estimate,,"1,280,178",8.0%,26.0%,33.7%,32.3%
-Illinois_Total_Estimate,,"8,692,839",9.6%,25.2%,27.6%,37.7%
-Indiana_Total_Estimate,,"4,584,460",9.8%,32.1%,28.5%,29.6%
-Iowa_Total_Estimate,,"2,159,511",6.5%,29.5%,31.6%,32.3%
-Kansas_Total_Estimate,,"1,944,891",7.9%,25.3%,31.2%,35.6%
-Kentucky_Total_Estimate,,"3,091,499",11.0%,32.4%,28.7%,27.9%
-Louisiana_Total_Estimate,,"3,096,121",12.7%,32.5%,27.7%,27.1%
-Maine_Total_Estimate,,"1,030,141",5.4%,30.2%,28.4%,36.1%
-Maryland_Total_Estimate,,"4,286,216",8.6%,23.6%,24.0%,43.8%
-Massachusetts_Total_Estimate,,"4,947,384",8.7%,23.0%,21.7%,46.6%
-Michigan_Total_Estimate,,"6,978,952",8.2%,28.1%,31.6%,32.1%
-Minnesota_Total_Estimate,,"3,918,565",6.0%,23.4%,31.5%,39.1%
-Mississippi_Total_Estimate,,"1,963,322",12.4%,30.8%,32.1%,24.8%
-Missouri_Total_Estimate,,"4,236,010",8.4%,30.1%,29.2%,32.2%
-Montana_Total_Estimate,,"785,438",6.0%,27.7%,31.7%,34.6%
-Nebraska_Total_Estimate,,"1,300,094",7.2%,25.1%,33.1%,34.7%
-Nevada_Total_Estimate,,"2,223,852",12.6%,27.9%,32.5%,27.0%
-New Hampshire_Total_Estimate,,"1,024,780",5.5%,27.1%,26.1%,41.3%
-New Jersey_Total_Estimate,,"6,482,223",9.3%,25.2%,22.0%,43.5%
-New Mexico_Total_Estimate,,"1,453,129",12.0%,25.7%,31.8%,30.5%
-New York_Total_Estimate,,"13,892,241",12.1%,24.6%,23.3%,40.0%
-North Carolina_Total_Estimate,,"7,372,120",9.8%,24.9%,29.4%,35.9%
-North Dakota_Total_Estimate,,"514,786",6.1%,25.6%,36.4%,31.8%
-Ohio_Total_Estimate,,"8,130,929",8.2%,31.9%,27.8%,32.0%
-Oklahoma_Total_Estimate,,"2,661,141",10.4%,30.6%,30.5%,28.5%
-Oregon_Total_Estimate,,"3,043,930",8.4%,22.7%,32.6%,36.3%
-Pennsylvania_Total_Estimate,,"9,151,744",7.8%,33.0%,24.1%,35.1%
-Rhode Island_Total_Estimate,,"778,191",9.5%,24.7%,26.2%,39.6%
-South Carolina_Total_Estimate,,"3,664,922",9.5%,27.7%,30.2%,32.6%
-South Dakota_Total_Estimate,,"605,735",6.8%,29.2%,32.3%,31.6%
-Tennessee_Total_Estimate,,"4,868,110",9.6%,31.3%,28.0%,31.1%
-Texas_Total_Estimate,,"19,597,383",13.9%,24.2%,28.0%,33.9%
-Utah_Total_Estimate,,"2,042,912",7.0%,22.0%,33.1%,37.9%
-Vermont_Total_Estimate,,"467,643",5.0%,26.0%,24.7%,44.2%
-Virginia_Total_Estimate,,"5,978,782",8.5%,23.9%,25.4%,42.2%
-Washington_Total_Estimate,,"5,470,209",7.8%,21.5%,31.2%,39.5%
-West Virginia_Total_Estimate,,"1,262,566",10.9%,38.3%,26.0%,24.8%
-Wisconsin_Total_Estimate,,"4,088,500",6.5%,29.6%,30.7%,33.2%
-Wyoming_Total_Estimate,,"399,796",6.3%,27.3%,36.9%,29.6%
+Alabama,,"3,474,924",11.2%,30.4%,29.6%,28.8%
+Alaska,,"489,218",6.7%,29.1%,33.6%,30.6%
+Arizona,,"5,053,656",10.8%,23.8%,32.4%,33.0%
+Arkansas,,"2,057,624",10.9%,34.3%,29.4%,25.4%
+California,,"26,866,773",15.3%,20.5%,27.2%,37.0%
+Colorado,,"4,084,004",7.0%,20.2%,27.0%,45.9%
+Connecticut,,"2,545,188",8.5%,25.9%,23.7%,41.9%
+Delaware,,"724,041",8.0%,28.2%,27.3%,36.5%
+District of Columbia,,"479,231",6.3%,13.5%,14.8%,65.4%
+Florida,,"16,104,410",10.1%,27.1%,28.6%,34.3%
+Georgia,,"7,332,980",10.5%,27.0%,27.8%,34.7%
+Hawaii,,"1,023,843",7.1%,26.8%,30.7%,35.4%
+Idaho,,"1,280,178",8.0%,26.0%,33.7%,32.3%
+Illinois,,"8,692,839",9.6%,25.2%,27.6%,37.7%
+Indiana,,"4,584,460",9.8%,32.1%,28.5%,29.6%
+Iowa,,"2,159,511",6.5%,29.5%,31.6%,32.3%
+Kansas,,"1,944,891",7.9%,25.3%,31.2%,35.6%
+Kentucky,,"3,091,499",11.0%,32.4%,28.7%,27.9%
+Louisiana,,"3,096,121",12.7%,32.5%,27.7%,27.1%
+Maine,,"1,030,141",5.4%,30.2%,28.4%,36.1%
+Maryland,,"4,286,216",8.6%,23.6%,24.0%,43.8%
+Massachusetts,,"4,947,384",8.7%,23.0%,21.7%,46.6%
+Michigan,,"6,978,952",8.2%,28.1%,31.6%,32.1%
+Minnesota,,"3,918,565",6.0%,23.4%,31.5%,39.1%
+Mississippi,,"1,963,322",12.4%,30.8%,32.1%,24.8%
+Missouri,,"4,236,010",8.4%,30.1%,29.2%,32.2%
+Montana,,"785,438",6.0%,27.7%,31.7%,34.6%
+Nebraska,,"1,300,094",7.2%,25.1%,33.1%,34.7%
+Nevada,,"2,223,852",12.6%,27.9%,32.5%,27.0%
+New Hampshire,,"1,024,780",5.5%,27.1%,26.1%,41.3%
+New Jersey,,"6,482,223",9.3%,25.2%,22.0%,43.5%
+New Mexico,,"1,453,129",12.0%,25.7%,31.8%,30.5%
+New York,,"13,892,241",12.1%,24.6%,23.3%,40.0%
+North Carolina,,"7,372,120",9.8%,24.9%,29.4%,35.9%
+North Dakota,,"514,786",6.1%,25.6%,36.4%,31.8%
+Ohio,,"8,130,929",8.2%,31.9%,27.8%,32.0%
+Oklahoma,,"2,661,141",10.4%,30.6%,30.5%,28.5%
+Oregon,,"3,043,930",8.4%,22.7%,32.6%,36.3%
+Pennsylvania,,"9,151,744",7.8%,33.0%,24.1%,35.1%
+Rhode Island,,"778,191",9.5%,24.7%,26.2%,39.6%
+South Carolina,,"3,664,922",9.5%,27.7%,30.2%,32.6%
+South Dakota,,"605,735",6.8%,29.2%,32.3%,31.6%
+Tennessee,,"4,868,110",9.6%,31.3%,28.0%,31.1%
+Texas,,"19,597,383",13.9%,24.2%,28.0%,33.9%
+Utah,,"2,042,912",7.0%,22.0%,33.1%,37.9%
+Vermont,,"467,643",5.0%,26.0%,24.7%,44.2%
+Virginia,,"5,978,782",8.5%,23.9%,25.4%,42.2%
+Washington,,"5,470,209",7.8%,21.5%,31.2%,39.5%
+West Virginia,,"1,262,566",10.9%,38.3%,26.0%,24.8%
+Wisconsin,,"4,088,500",6.5%,29.6%,30.7%,33.2%
+Wyoming,,"399,796",6.3%,27.3%,36.9%,29.6%
