@@ -37,4 +37,7 @@ Vaccine Provider by State: (https://data.cdc.gov/Vaccinations/Vaccines-gov-COVID
 Data Analysis and Cleaning Resources Provided by Course Content from the University of Berkeley Data Analysis Bootcamp
 
 
+## Links 
+- Google doc: https://docs.google.com/document/d/1HfUBWXd_SyRCFI41GGtYykoPyAK3WKC7KGFaYH-I8Lk/edit?usp=sharing
+- Presentation: https://docs.google.com/presentation/d/1KkbnCSJ7Cqy-xBXMCHEbV1ALaFCIUnepHpSoSxsRz6A/edit?usp=sharing
 
